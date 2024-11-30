@@ -2,9 +2,7 @@
 
 I participated in the open-access PwC Data Analytics Virtual Experience Program with Forage. Where I worked as a business data analyst to help an organization named “PhoneNow” to analyze their data and help them understand how they can leverage on their massive amount of data.
 
-Live interact Dashboard on [NovyPro Link](https://www.novypro.com/project/i-participated-in-the-open-access-pwc-data-analytics-virtual-experience-program-with-forage-where-i-worked-as-a-business-data-analyst-to-help-an-organization-named-%E2%80%9Cphonenow%E2%80%9D-to-analyze-their-data-and-help-them-understand-how-they-can-leverage-on)
-
-I worked on this project by following the Pwc virtual Experience on power BI at Forage [Link here](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=4waMNg8ejozso67A7)
+Live interact Dashboard on:https://github.com/Jagannathro/PWC_Call_Center/blob/main/Dashboard.mp4
 
 ## Project Overview & Business Problem
 
@@ -14,11 +12,6 @@ I worked on this project by following the Pwc virtual Experience on power BI at 
 
 I am working as a data analyst intern for PwC Switzerland when one of our important clients, a big telecom company reach out to me, to help visualize their data. Claire, the call center manager at PhoneNow wants me to help bring out insight from their call center data, she wants to know the total number of calls answered and abandoned, speed of answer, length of calls, overall customer satisfaction, and most importantly, she’s interested in knowing the accurate overview of long-term trends in customers and agent’s behavior.
 
-### Request mail
-
-<p align="center">
-    <img src='https://github.com/rajeshkumar1312/PwC-PowerBI-Experience-01-Call-Center-Trends-Analysis./blob/main/Pwc%20call%20centre%20Email%20image.png' height="400">
-</p>
 
 From Claire’s mail, her KPIs includes (but not limited to):
 
@@ -61,7 +54,7 @@ From Claire’s mail, her KPIs includes (but not limited to):
 ## Overall Visualization.
 
 <p align="center">
-    <img src='https://github.com/rajeshkumar1312/PwC-PowerBI-Experience-01-Call-Center-Trends-Analysis./blob/main/Pwc%20Virtual%20intern%20(%20call%20centre)%20image.png' height="400">
+    <img src='[https://github.com/Jagannathro/PWC_Call_Center/blob/main/PWC.png]' height="400">
 </p>
 
 ### Recommendations
