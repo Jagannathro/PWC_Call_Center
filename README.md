@@ -54,8 +54,7 @@ From Claire’s mail, her KPIs includes (but not limited to):
 ## Overall Visualization.
 
 <p align="center">
-    <img src='[PWC.png]' height="500">
-</p>
+    <img src= 'https://github.com/Jagannathro/PWC_Call_Center/blob/main/PWC.png' height="500"></p>
 
 ### Recommendations
 
